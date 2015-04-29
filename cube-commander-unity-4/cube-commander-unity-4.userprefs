@@ -1,9 +1,17 @@
 ﻿<Properties>
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/sound.cs">
     <Files>
       <File FileName="Assets/scripts/sound.cs" Line="23" Column="1" />
       <File FileName="Assets/scripts/CollisionTop.cs" Line="66" Column="28" />
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Rotate.cs">
+    <Files>
+      <File FileName="Assets\scripts\Rotate.cs" Line="31" Column="29" />
+      <File FileName="Assets\scripts\buttons.cs" Line="21" Column="22" />
+>>>>>>> origin/master
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
